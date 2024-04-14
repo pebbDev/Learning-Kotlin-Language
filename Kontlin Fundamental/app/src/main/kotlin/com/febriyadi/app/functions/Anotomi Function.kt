@@ -21,7 +21,7 @@ Protected
 Dapat diakses di dalam kelas yang sama dan juga kelas turunannya (subkelas), baik itu di paket yang sama atau di paket yang berbeda.
 Namun, perlu diingat bahwa dalam Kotlin, hak akses protected hanya berlaku untuk kelas dan properti, tidak berlaku untuk fungsi.
  */
-protected val protectedProperty: String = "Protected Property"
+//protected val protectedProperty: String = "Protected Property"
 
 /*
 Internal

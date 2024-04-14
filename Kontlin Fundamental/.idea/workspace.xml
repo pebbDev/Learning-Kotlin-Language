@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306db450-caf7-4dac-8a9e-088bec9b3c8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/functions/Named dan Default Argument.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/functions/Anotomi Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/functions/Anotomi Function.kt" afterDir="false" />
     </list>
@@ -63,7 +64,7 @@
       <recent name="D:\Learning Kotlin\Kontlin Fundamental\app\src\main\kotlin\com\febriyadi\app\DataType_Variabel" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionKt">
+  <component name="RunManager" selected="Kotlin.Named_dan_Default_ArgumentKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.arrays.ArrayKt" />
       <module name="Kontlin_Fundamental.app.main" />
@@ -71,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.BooleanKt" />
+    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.functions.FunctionKt" />
       <module name="Kontlin_Fundamental.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.functions.FunctionKt" />
+    <configuration name="Named_dan_Default_ArgumentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.functions.Named_dan_Default_ArgumentKt" />
       <module name="Kontlin_Fundamental.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Named_dan_Default_ArgumentKt" />
         <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.Nullable_TypesKt" />
         <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.NumbersKt" />
-        <item itemvalue="Kotlin.BooleanKt" />
       </list>
     </recent_temporary>
   </component>
