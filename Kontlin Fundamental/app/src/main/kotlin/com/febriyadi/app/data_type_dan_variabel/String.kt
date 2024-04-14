@@ -32,4 +32,15 @@ fun main (){
     //unicode
     val brand = "pewDev\u00A9"
     println(brand)
+    //String tamplate
+    val mahasiswa = "febriyadi"
+    println("Nama saya"+mahasiswa )
+
+    //String tamplate expression
+        val hour = 7
+        print("Office ${if (hour > 7) "already close" else "is open"}")
+
+        /*
+            output : Office is open
+        */
 }

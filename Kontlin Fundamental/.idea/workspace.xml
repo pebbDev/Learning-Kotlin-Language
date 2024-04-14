@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306db450-caf7-4dac-8a9e-088bec9b3c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/Char.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/IF Expression.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/Data Tyape &amp; Variabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/Data Tyape &amp; Variabel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/String.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/String.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -67,7 +64,7 @@
       <recent name="D:\Learning Kotlin\Kontlin Fundamental\app\src\main\kotlin\com\febriyadi\app\DataType_Variabel" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.StringKt">
+  <component name="RunManager" selected="Kotlin.IF_ExpressionKt">
     <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.AppKt" />
       <module name="Kontlin_Fundamental.app.main" />
@@ -89,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IF_ExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.IF_ExpressionKt" />
+      <module name="Kontlin_Fundamental.app.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.StringKt" />
       <module name="Kontlin_Fundamental.app.main" />
@@ -98,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.IF_ExpressionKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.Data_Tyape___VariabelKt" />
