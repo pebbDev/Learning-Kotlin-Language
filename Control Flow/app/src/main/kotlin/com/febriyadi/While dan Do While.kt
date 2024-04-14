@@ -20,4 +20,10 @@ fun main (){
         println("Hello, World!")
         counter++
     } while (counter2 <= 7)
+
+    //interval loop
+    var value = 'A'
+    do {
+        print(value)
+    } while (value <= 'Z')
 }
