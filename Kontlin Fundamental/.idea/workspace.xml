@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306db450-caf7-4dac-8a9e-088bec9b3c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/arrays/Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/arrays/Nullable Types.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/arrays/Nullable Types.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <recent name="D:\Learning Kotlin\Kontlin Fundamental\app\src\main\kotlin\com\febriyadi\app\DataType_Variabel" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayKt">
+  <component name="RunManager" selected="Kotlin.Nullable_TypesKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.arrays.ArrayKt" />
       <module name="Kontlin_Fundamental.app.main" />
@@ -85,6 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Nullable_TypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.arrays.Nullable_TypesKt" />
+      <module name="Kontlin_Fundamental.app.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.NumbersKt" />
       <module name="Kontlin_Fundamental.app.main" />
@@ -92,20 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.StringKt" />
-      <module name="Kontlin_Fundamental.app.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Nullable_TypesKt" />
         <item itemvalue="Kotlin.ArrayKt" />
         <item itemvalue="Kotlin.NumbersKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.IF_ExpressionKt" />
-        <item itemvalue="Kotlin.StringKt" />
       </list>
     </recent_temporary>
   </component>
