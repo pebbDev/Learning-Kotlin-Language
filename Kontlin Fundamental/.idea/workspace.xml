@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306db450-caf7-4dac-8a9e-088bec9b3c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/functions/function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/arrays/Safe Calls dan Elvis Operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/arrays/Safe Calls dan Elvis Operator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/functions/Anotomi Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/functions/Anotomi Function.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
