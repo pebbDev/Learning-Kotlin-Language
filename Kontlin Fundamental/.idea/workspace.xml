@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="306db450-caf7-4dac-8a9e-088bec9b3c8c" name="Changes" comment="" />
+    <list default="true" id="306db450-caf7-4dac-8a9e-088bec9b3c8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/Char.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/String.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/Data Tyape &amp; Variabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/Data Tyape &amp; Variabel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +25,22 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2f3SqNmHcIwP4JG94amw53veFNr" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -28,16 +48,26 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "kotlin__fundamental",
     "last_opened_file_path": "D:/Java_Home/gradle 8.4/gradle-8.4",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Data_Tyape___VariabelKt">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learning Kotlin\Kontlin Fundamental\app\src\main\kotlin\com\febriyadi\app\DataType_Variabel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.StringKt">
     <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.AppKt" />
       <module name="Kontlin_Fundamental.app.main" />
@@ -45,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.CharKt" />
+      <module name="Kontlin_Fundamental.app.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Data_Tyape___VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.Data_Tyape___VariabelKt" />
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.Data_Tyape___VariabelKt" />
+      <module name="Kontlin_Fundamental.app.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.StringKt" />
       <module name="Kontlin_Fundamental.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringKt" />
+        <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.Data_Tyape___VariabelKt" />
         <item itemvalue="Kotlin.AppKt" />
       </list>
