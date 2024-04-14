@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306db450-caf7-4dac-8a9e-088bec9b3c8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/Boolean.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/febriyadi/app/data_type_dan_variabel/Numbers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <recent name="D:\Learning Kotlin\Kontlin Fundamental\app\src\main\kotlin\com\febriyadi\app\DataType_Variabel" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BooleanKt">
+  <component name="RunManager" selected="Kotlin.NumbersKt">
     <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.BooleanKt" />
       <module name="Kontlin_Fundamental.app.main" />
@@ -78,15 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Data_Tyape___VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.Data_Tyape___VariabelKt" />
+    <configuration name="IF_ExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.IF_ExpressionKt" />
       <module name="Kontlin_Fundamental.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF_ExpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.IF_ExpressionKt" />
+    <configuration name="NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.febriyadi.app.data_type_dan_variabel.NumbersKt" />
       <module name="Kontlin_Fundamental.app.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NumbersKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.IF_ExpressionKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.CharKt" />
-        <item itemvalue="Kotlin.Data_Tyape___VariabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -119,5 +119,16 @@
       <updated>1713028461457</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
