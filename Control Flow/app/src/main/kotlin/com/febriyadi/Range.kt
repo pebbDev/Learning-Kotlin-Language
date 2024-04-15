@@ -24,6 +24,4 @@ fun main() {
     if (7 in tenToOne) {
         println("Value 7 available")
     }
-
-    x`
 }
