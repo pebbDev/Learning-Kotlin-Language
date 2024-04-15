@@ -1,7 +1,3 @@
-Tentu, berikut adalah dokumen `README.md` yang ringkas mengenai Object-Oriented Programming (OOP) dengan Kotlin, beserta beberapa contoh implementasinya:
-
----
-
 ## Object-Oriented Programming (OOP) dengan Kotlin
 
 Kotlin memberikan dukungan yang luas untuk mengembangkan program berorientasi objek. OOP adalah paradigma pemrograman yang populer karena memungkinkan kita memvisualisasikan kode dengan cara yang mirip dengan skenario dalam kehidupan nyata.
